@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148189950270",
+    "project_id": "citasmedicas-dd6a8",
+    "storage_bucket": "citasmedicas-dd6a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148189950270:android:5a55d41f47b31dbf64fc6f",
+        "android_client_info": {
+          "package_name": "com.gloverperu.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148189950270-tvh9ok0kek2a4d514sqjnma33brp5sr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gloverperu.doctor",
+            "certificate_hash": "cfc51f4944d896cd4c311dc51ff415d56947c0c5"
+          }
+        },
+        {
+          "client_id": "148189950270-s6m10vekcari9u7alqfbpkeip6oed7fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF18O2dUi4baERI1rXdZmu35yB0m_toQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148189950270-s6m10vekcari9u7alqfbpkeip6oed7fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
